@@ -1,0 +1,26 @@
+
+body{
+  overflow:scroll; /* This will remove the default scroll, not really needed, safer nonetheless */
+}
+
+
+.right{
+  margin-left: 280px;
+  border: 10px solid #686868 ;
+  width: 100%;
+  overflow:scroll; /* This will add a scroll when required */
+  width:  35%;
+  float:left;
+  height: 100%
+}
+
+  .left{
+  /*margin-left: 50px; */
+  border: 10px solid #686868 ;
+  width: 100%;
+  overflow:scroll; /* This will add a scroll when required */
+  width:  35%;
+  float:left;
+  height: 100%
+
+  }
